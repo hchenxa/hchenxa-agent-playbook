@@ -2,8 +2,6 @@
 description: Generate the zstream test plan based on the issues
 example: "egent_start: generate the zstream test based for MCE 2.9.0 release"
 parameters:
-  target_go_version:
-    description: Target Go version
   releases_list:
     description: Comma-separated list of release
 dependencies:
