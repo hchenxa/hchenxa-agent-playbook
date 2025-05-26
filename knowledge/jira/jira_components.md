@@ -6,12 +6,12 @@ The issue on jira will assign to different component with setting the Component,
 
 Here is the table of the components and the owner:
 
-| Component                  | contractor                          |
+| Component                  | owner                          |
 | -------------------------- | ----------------------------------- |
 | Server Foundation          | @songlai@redhat.com                 |
-| Application Lifecycle      | @huichen@redhat.com                 |
+| Application Lifecycle      | @a@redhat.com                 |
 | Global Hub                 | @huichen@redhat.com                 |
-| Cluster Lifecycle          | @huichen@redhat.com                 |
-| HyperShift                 | @huichen@redhat.com                 |
-| Console                    | @huichen@redhat.com                 |
-| Search                     | @huichen@redhat.com                 |
+| Cluster Lifecycle          | @c@redhat.com                 |
+| HyperShift                 | @d@redhat.com                 |
+| Console                    | @e@redhat.com                 |
+| Search                     | @f@redhat.com                 |

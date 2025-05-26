@@ -1,0 +1,5 @@
+- When i said the serverfoundation e2e, it means the jobs of qe-acm-automation-poc/server_foundation_e2e_tests on jenkins
+- When I said create a serverfoundation environment, it means to trigger the jobs of ServerFoundation-cronjob-smoke on jenkins
+- When I said the globalhub e2e, it means to kick off the jobs of globalhub-e2e on jenkins
+- When I said the import cluster, it means to kick off the jobs of qe-acm-automation-poc/clc-e2e-api-pipeline
+- When I want to kick off the new jobs, you should first query the last jobs run to get the parameters and use the parameters to run the new jobs, and before running the new jobs, I can review the paramters and update the paramters
